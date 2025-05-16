@@ -2,7 +2,13 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/TashinParvez/Java_From_Zero)
 ![GitHub contributors](https://img.shields.io/github/contributors/TashinParvez/Java_From_Zero)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TashinParvez/Java_From_Zero)
+![Stars](https://img.shields.io/github/stars/TashinParvez/Java_From_Zero_UIU_OOP?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/TashinParvez/Java_From_Zero_UIU_OOP)
+![Top Language](https://img.shields.io/github/languages/top/TashinParvez/Java_From_Zero_UIU_OOP)
+![Awesome Badge](https://img.shields.io/badge/Made%20With-%E2%9D%A4-red)
+
+
+
 
 Your **one-stop destination** for all things **Java!** This repository is a complete **learning hub** that includes:  
 ✅ **Java fundamentals** from scratch  
